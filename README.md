@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/nathanhood/postcss-nested-selectors/branch/master/graph/badge.svg)](https://codecov.io/gh/nathanhood/postcss-nested-selectors)
 
 
-**Note:** This is a fork of [postcss-nested-selectors](https://github.com/nathanhood/postcss-nested-selectors).
+**Note:** This is a fork of [postcss-nested-ancestors](https://github.com/toomuchdesign/postcss-nested-ancestors).
 
 [PostCSS] plugin to reference any ancestor selector in nested CSS.
 
