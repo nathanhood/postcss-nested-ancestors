@@ -93,7 +93,7 @@ module.exports = postcss.plugin('postcss-nested-ancestors', (opts = {}) => {
 
 		// Remove current parent stack item at the end of each child iteration
 		parentStack.pop();
-	};
+	}
 
 	return (root, result) => {
 		process(root, result);
